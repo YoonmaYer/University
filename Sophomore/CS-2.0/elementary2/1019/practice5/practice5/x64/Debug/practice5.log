@@ -1,0 +1,4 @@
+﻿  practice5.cpp
+C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\elementary2\1019\practice5\practice5\practice5.cpp(5,10): warning C4101: 'S' :참조되지 않은 지역 변수입니다.
+C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\elementary2\1019\practice5\practice5\practice5.cpp(5,7): warning C4101: 'A' :참조되지 않은 지역 변수입니다.
+  practice5.vcxproj -> C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\elementary2\1019\practice5\x64\Debug\practice5.exe

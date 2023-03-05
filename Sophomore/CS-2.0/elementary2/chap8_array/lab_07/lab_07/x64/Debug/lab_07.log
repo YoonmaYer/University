@@ -1,0 +1,4 @@
+﻿  lab_07.cpp
+C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\elementary2\chap8_array\lab_07\lab_07\lab_07.cpp(30,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\elementary2\chap8_array\lab_07\lab_07\lab_07.cpp(30,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 2과(와) 충돌합니다.
+  lab_07.vcxproj -> C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\elementary2\chap8_array\lab_07\x64\Debug\lab_07.exe

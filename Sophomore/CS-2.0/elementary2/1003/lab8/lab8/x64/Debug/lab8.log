@@ -1,0 +1,4 @@
+﻿  lab8.cpp
+C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\elementary2\1003\lab8\lab8\lab8.cpp(9,8): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\elementary2\1003\lab8\lab8\lab8.cpp(11,8): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+  lab8.vcxproj -> C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\elementary2\1003\lab8\x64\Debug\lab8.exe

@@ -1,0 +1,9 @@
+﻿  lab_06.cpp
+C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\elementary2\1102_chap6_if_switch\lab_06\lab_06\lab_06.cpp(9,10): warning C4778: 'printf' : 서식 문자열 '%'이(가) 종결되지 않았습니다.
+C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\elementary2\1102_chap6_if_switch\lab_06\lab_06\lab_06.cpp(11,10): warning C4778: 'printf' : 서식 문자열 '%'이(가) 종결되지 않았습니다.
+C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\elementary2\1102_chap6_if_switch\lab_06\lab_06\lab_06.cpp(13,10): warning C4778: 'printf' : 서식 문자열 '%'이(가) 종결되지 않았습니다.
+C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\elementary2\1102_chap6_if_switch\lab_06\lab_06\lab_06.cpp(15,10): warning C4778: 'printf' : 서식 문자열 '%'이(가) 종결되지 않았습니다.
+C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\elementary2\1102_chap6_if_switch\lab_06\lab_06\lab_06.cpp(17,10): warning C4778: 'printf' : 서식 문자열 '%'이(가) 종결되지 않았습니다.
+C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\elementary2\1102_chap6_if_switch\lab_06\lab_06\lab_06.cpp(19,10): warning C4778: 'printf' : 서식 문자열 '%'이(가) 종결되지 않았습니다.
+C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\elementary2\1102_chap6_if_switch\lab_06\lab_06\lab_06.cpp(21,10): warning C4778: 'printf' : 서식 문자열 '%'이(가) 종결되지 않았습니다.
+  lab_06.vcxproj -> C:\Users\ASUS\Desktop\코딩\CS\CS-2.0\elementary2\1102_chap6_if_switch\lab_06\x64\Debug\lab_06.exe
