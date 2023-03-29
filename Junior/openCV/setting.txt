@@ -1,0 +1,10 @@
+setting
+
+프로젝트 속성 [Release x64]
+
+[VC++ 디렉터리] [포함 디렉터리] C:\Users\ASUS\Downloads\opencv\build\include
+[VC++ 디렉터리] [라이브러리 디렉터리] C:\Users\ASUS\Downloads\opencv\build\x64\vc16\lib
+
+[링커][입력][추가 종속성] opencv_world470.lib
+
+프로젝트폴더에 저 파일 넣기

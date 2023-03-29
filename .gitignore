@@ -1,0 +1,21 @@
+﻿################################################################################
+# 이 .gitignore 파일은 Microsoft(R) Visual Studio에서 자동으로 만들어졌습니다.
+################################################################################
+
+/Junior/openCV/Drawing/.vs/Drawing/v17/.suo
+*.wsuo
+*.json
+/Junior/openCV/Drawing/.vs/Drawing
+*.props
+*.filters
+*.vcxproj
+*.user
+*.sln
+/Junior/openCV/trackBar/.vs/trackBar/FileContentIndex
+*.ipch
+*.suo
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.dll
