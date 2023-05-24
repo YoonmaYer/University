@@ -1,0 +1,2 @@
+﻿  histogram.c
+C:\Users\ASUS\Downloads\opencv\build\include\opencv2\core.hpp(49,1): fatal  error C1189: #error:  core.hpp header must be compiled as C++

@@ -1,0 +1,37 @@
+USE test1
+
+DROP TABLE 고객
+SHOW tables
+
+CREATE TABLE 고객
+(고객번호 INT AUTO_INCREMENT
+,주민등록번호 VARCHAR(30) NULL UNIQUE
+,고객명 VARCHAR(30) DEFAULT '아무개',
+상태 CHAR(4) CHECK (상태 IN('신규','기존','이탈')),
+PRIMARY KEY (고객번호));
+
+
+SELECT *FROM 고객
+DESC 고객
+
+ALTER TABLE 고객 ADD 주소 VARCHAR(50) NULL /*추가 */
+ALTER TABLE 고객 DROP COLUMN 주소/*삭제 */
+
+INSERT INTO 고객 (주민등록번호) VALUES 
+('123456-1234567'),
+('321654-1234567');
+
+INSERT INTO 고객 (주민등록번호,고객명) VALUES 
+('123456-1234567',"강윤"),
+('321654-1234567',"강윤");
+
+INSERT INTO 고객 (주민등록번호,상태) VALUES 
+('123456-1234567',"신규"),
+('321654-1234567',"이탈");
+
+INSERT INTO 고객 (주민등록번호,상태) VALUES 
+('123456-1234577',"이동"); /*에러남*/
+
+
+
+INSERT INTO 고객 VALUES (1,'123456-1234567','홍길동2');
